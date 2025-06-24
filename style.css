@@ -1,0 +1,32 @@
+h1 {
+background-color: #496149;
+text-align: center;
+}
+body{
+background-color: #a2e8a4;
+font-family:sans-serif ;
+}
+header {
+background-color:#496149 ;
+color: rgb(25, 31, 25);
+}
+p {
+text-align: center;
+background-color: #496149;
+}
+img{
+background-color: #496149;
+}
+main {
+background-color: #496149;
+}
+a {
+background-color: #496149;
+color: white;
+}
+footer {
+    background-color: #496149;
+}
+br {
+background-color: #496149;
+}
